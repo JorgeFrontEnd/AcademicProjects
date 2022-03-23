@@ -1,0 +1,88 @@
+D:\Programação\Projeto de C#\SopaDeLetras\SopaDeLetras\bin\Debug\SopaDeLetras.exe.config
+D:\Programação\Projeto de C#\SopaDeLetras\SopaDeLetras\bin\Debug\SopaDeLetras.exe
+D:\Programação\Projeto de C#\SopaDeLetras\SopaDeLetras\bin\Debug\SopaDeLetras.pdb
+D:\Programação\Projeto de C#\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.csprojAssemblyReference.cache
+D:\Programação\Projeto de C#\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.Form1.resources
+D:\Programação\Projeto de C#\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.Properties.Resources.resources
+D:\Programação\Projeto de C#\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.csproj.GenerateResource.cache
+D:\Programação\Projeto de C#\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.csproj.CoreCompileInputs.cache
+D:\Programação\Projeto de C#\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.exe
+D:\Programação\Projeto de C#\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.pdb
+C:\Users\User\Desktop\jogo\SopaDeLetras\SopaDeLetras\bin\Debug\SopaDeLetras.exe.config
+C:\Users\User\Desktop\jogo\SopaDeLetras\SopaDeLetras\bin\Debug\SopaDeLetras.exe
+C:\Users\User\Desktop\jogo\SopaDeLetras\SopaDeLetras\bin\Debug\SopaDeLetras.pdb
+C:\Users\User\Desktop\jogo\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.csprojAssemblyReference.cache
+C:\Users\User\Desktop\jogo\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.Form1.resources
+C:\Users\User\Desktop\jogo\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.Properties.Resources.resources
+C:\Users\User\Desktop\jogo\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.csproj.GenerateResource.cache
+C:\Users\User\Desktop\jogo\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\jogo\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.exe
+C:\Users\User\Desktop\jogo\SopaDeLetras\SopaDeLetras\obj\Debug\SopaDeLetras.pdb
+D:\Programação\Projeto de C#\SopaDeLetrasFinal\SopaDeLetras\bin\Debug\SopaDeLetras.exe.config
+D:\Programação\Projeto de C#\SopaDeLetrasFinal\SopaDeLetras\bin\Debug\SopaDeLetras.exe
+D:\Programação\Projeto de C#\SopaDeLetrasFinal\SopaDeLetras\bin\Debug\SopaDeLetras.pdb
+D:\Programação\Projeto de C#\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.csprojAssemblyReference.cache
+D:\Programação\Projeto de C#\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Properties.Resources.resources
+D:\Programação\Projeto de C#\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.csproj.GenerateResource.cache
+D:\Programação\Projeto de C#\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.csproj.CoreCompileInputs.cache
+D:\Programação\Projeto de C#\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.exe
+D:\Programação\Projeto de C#\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.pdb
+D:\Programação\Projeto de C#\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form2.resources
+D:\Programação\Projeto de C#\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form3.resources
+D:\Programação\Projeto de C#\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form4.resources
+D:\Programação\Projeto de C#\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form5.resources
+D:\Programação\Projeto de C#\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form6.resources
+D:\Programação\Projeto de C#\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form7.resources
+D:\Programação\Projeto de C#\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form8.resources
+C:\Users\User\Desktop\Nova pasta (3)\SopaDeLetrasFinal\SopaDeLetras\bin\Debug\SopaDeLetras.exe.config
+C:\Users\User\Desktop\Nova pasta (3)\SopaDeLetrasFinal\SopaDeLetras\bin\Debug\SopaDeLetras.exe
+C:\Users\User\Desktop\Nova pasta (3)\SopaDeLetrasFinal\SopaDeLetras\bin\Debug\SopaDeLetras.pdb
+C:\Users\User\Desktop\Nova pasta (3)\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Nova pasta (3)\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form1.resources
+C:\Users\User\Desktop\Nova pasta (3)\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form2.resources
+C:\Users\User\Desktop\Nova pasta (3)\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form3.resources
+C:\Users\User\Desktop\Nova pasta (3)\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form4.resources
+C:\Users\User\Desktop\Nova pasta (3)\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form5.resources
+C:\Users\User\Desktop\Nova pasta (3)\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form6.resources
+C:\Users\User\Desktop\Nova pasta (3)\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form7.resources
+C:\Users\User\Desktop\Nova pasta (3)\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form8.resources
+C:\Users\User\Desktop\Nova pasta (3)\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Properties.Resources.resources
+C:\Users\User\Desktop\Nova pasta (3)\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Nova pasta (3)\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nova pasta (3)\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.exe
+C:\Users\User\Desktop\Nova pasta (3)\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.pdb
+C:\Users\jorge\Desktop\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.csprojAssemblyReference.cache
+C:\Users\jorge\Desktop\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form1.resources
+C:\Users\jorge\Desktop\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form2.resources
+C:\Users\jorge\Desktop\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form3.resources
+C:\Users\jorge\Desktop\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form4.resources
+C:\Users\jorge\Desktop\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form5.resources
+C:\Users\jorge\Desktop\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form6.resources
+C:\Users\jorge\Desktop\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form7.resources
+C:\Users\jorge\Desktop\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form8.resources
+C:\Users\jorge\Desktop\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Properties.Resources.resources
+C:\Users\jorge\Desktop\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.csproj.GenerateResource.cache
+C:\Users\jorge\Desktop\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.exe
+C:\Users\jorge\Desktop\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.pdb
+C:\Users\jorge\Desktop\SopaDeLetrasFinal\SopaDeLetras\bin\Debug\SopaDeLetras.exe.config
+C:\Users\jorge\Desktop\SopaDeLetrasFinal\SopaDeLetras\bin\Debug\SopaDeLetras.exe
+C:\Users\jorge\Desktop\SopaDeLetrasFinal\SopaDeLetras\bin\Debug\SopaDeLetras.pdb
+C:\Users\User\Downloads\SopaDeLetrasFinal\SopaDeLetras\bin\Debug\SopaDeLetras.exe.config
+C:\Users\User\Downloads\SopaDeLetrasFinal\SopaDeLetras\bin\Debug\SopaDeLetras.exe
+C:\Users\User\Downloads\SopaDeLetrasFinal\SopaDeLetras\bin\Debug\SopaDeLetras.pdb
+C:\Users\User\Downloads\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.csprojAssemblyReference.cache
+C:\Users\User\Downloads\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form1.resources
+C:\Users\User\Downloads\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form2.resources
+C:\Users\User\Downloads\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form3.resources
+C:\Users\User\Downloads\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form4.resources
+C:\Users\User\Downloads\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form5.resources
+C:\Users\User\Downloads\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form6.resources
+C:\Users\User\Downloads\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form7.resources
+C:\Users\User\Downloads\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Form8.resources
+C:\Users\User\Downloads\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.Properties.Resources.resources
+C:\Users\User\Downloads\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.csproj.GenerateResource.cache
+C:\Users\User\Downloads\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.exe
+C:\Users\User\Downloads\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.pdb
+D:\Programação\Projeto de C#\SopaDeLetrasFinal\SopaDeLetras\obj\Debug\SopaDeLetras.App.resources
