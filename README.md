@@ -1,2 +1,2 @@
 # schoolProjects
-Projetos finais de modulos.
+Projetos finais de modulos escolares.
