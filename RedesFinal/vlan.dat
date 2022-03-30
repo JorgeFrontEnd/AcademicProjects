@@ -1,0 +1,12 @@
+150,3,FA6/1,Switch2,Acsess
+100,18,FA2/1,Switch1,Acsess
+110,10,FA3/1,Switch1,Acsess
+120,40,FA6/1,Switch1,Acsess
+130,36,FA7/1,Switch1,Acess
+--,0,FA0/1,Switch1,Trunk
+--,0,FA1/1,Switch1,Trunk
+--,0,FA0/1,Switch2,Trunk
+140,18,FA1/1,Switch2,Acsess
+160,80,FA2/1,Switch2,Acsess
+170,68,FA3/1,Switch2,Acsess
+180,45,FA7/1,Switch2,Acsess

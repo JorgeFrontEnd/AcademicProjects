@@ -1,0 +1,71 @@
+ en
+conf t
+hostname hostname
+line console
+password CCNA
+login
+line vty 0 15
+password telnet
+ login
+enable password Cisco
+en
+conf t 
+int fa0/0
+no shutdown
+
+int fa0/0.160
+encapsulation dot1q 160
+ip address 172.16.0.126 255.255.255.128
+ip helper-address 172.16. . 
+no shutdown
+exit
+int fa0/0.170
+encapsulation dot1q 170
+ip address 172.16.0.254 255.255.255.128
+ip helper-address 172.16. . 
+no shutdown
+exit
+int fa0/0.180
+encapsulation dot1q 180
+ip address 172.16.1.62 255.255.255.192
+ip helper-address 172.16. . 
+no shutdown
+exit
+int fa0/0.120
+encapsulation dot1q 120
+ip address 172.16.1.126 255.255.255.192
+ip helper-address 172.16. . 
+no shutdown
+exit
+int fa0/0.130
+encapsulation dot1q 130
+ip address 172.16.1.190 255.255.255.192
+ip helper-address 172.16. . 
+no shutdown
+exit
+int fa0/0.100
+encapsulation dot1q 100
+ip address 172.16.1.222 255.255.255.224
+ip helper-address 172.16. . 
+no shutdown
+exit
+int fa0/0.140
+encapsulation dot1q 140
+ip address 172.16.1.254 255.255.255.224
+ip helper-address 172.16. . 
+no shutdown
+exit
+int fa0/0.110
+encapsulation dot1q 110
+ip address 172.16.2.14 255.255.255.240
+ip helper-address 172.16. . 
+no shutdown
+exit
+int fa0/0.150
+encapsulation dot1q 150
+ip address 172.16.2.22 255.255.255.248
+ip helper-address 172.16. . 
+no shutdown
+exit
+do wr
+exit
