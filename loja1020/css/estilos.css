@@ -1,0 +1,281 @@
+/* Estilos Loja 1020 */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto:wght@100;400;700&display=swap');	
+/* Criação de variaveis em CSS */
+:root{
+	--rosa:#F5D3C8;
+	--cinzaescuro:#1E1E24;
+	--cinza:#BCBDC0;
+	--beje:#F2F3D9;
+	--laranja:#D8572A;
+	--azul:#247BA0;
+	--azulclaro:#B3CBB9;
+	--branco:#fff;
+}
+
+/* Info Transversal */
+html{ font-family: 'Roboto', sans-serif; font-size: 1em;}
+*{ margin:0; padding: 0; }
+a{ text-decoration: none; color:var(--azul);}
+.limpa{ clear: both; }
+section{ width: 96%; padding: 1% 2%; }
+.linha{ width: 98%; padding: 1%; margin:2% 0%; 
+	border-bottom-style: solid; border-bottom-width: thin;
+	border-bottom-color: var(--cinza);
+}
+.col{ float: left; }
+.col_100{ width: 100%;}
+.col_90{ width: 90%;}
+.col_80{ width: 80%;}
+.col_70{ width: 70%; }
+.col_60{ width: 60%;}
+.col_50{ width: 50%;}
+.col_40{ width: 40%;}
+.col_35{ width: 35%;}
+.col_30{ width: 30%; }
+.col_33{ width: 33%; }
+.col_25{ width: 25%; }
+.col_20{ width: 20%;}
+.col_10{ width: 10%;}
+
+.pad_top_1{ padding-top:1%; }
+.pad_top_2{ padding-top:2%; }
+.pad_bottom_1{ padding-bottom:1%; }
+.pad_bottom_2{ padding-bottom:2%; }
+.margem_2{ margin:0% 2%; }
+.margem_5{ margin:0% 5%; }
+
+input, select, textarea, button{ width: 98%; padding: 1%; 
+	border-width: thin; border-color: rgba(0,0,0,0);
+}
+input:focus{
+	outline: none;
+}
+button{ width: 100%; }
+button a{ color:var(--branco); }
+.bt_promo{ background-color: var(--laranja); color:var(--branco); 
+	border-color:var(--laranja);
+}
+.bt_base{ background-color: var(--azul); color:var(--branco);
+	border-color:var(--azul);
+}
+.txt_left{ text-align: left; }
+.txt_right{ text-align: right; }
+.txt_center{ text-align: center; }
+img{ width: 100%; height: auto; }
+.logo{ font-size: 2.2em; font-weight: bold; font-style: italic; 
+	font-family: 'Pacifico', cursive;}
+/* ------------------------- HEADER -------------------------- */
+header{ width: 98%; padding: 0% 1% 0% 1%;
+	background-color: var(--azul); color:var(--branco);
+}
+header a{ color:var(--branco); } 
+header ul li{ display: inline; margin:1%; }
+header ul li i{ font-size: 0.8em; }
+
+/* ----------------------- END HEADER ---------------------------- */
+/* -------------------------------- NAV ------------------------------ */
+nav{ width: 98%; padding: 1%; }
+nav ul li{ margin:1% 0%; }
+nav ul li div{ display: inline; padding:1% 3%; width:100%;}
+nav ul li div:hover{ background-color: var(--branco); cursor: pointer;}
+nav ul li div:hover a{ color:var(--azul); }
+/* ----------------------------- END NAV ----------------------------- */
+/* Envios ----------------------------------------------------------- */
+.envios_info{ text-align: center; 
+	border-bottom-color: var(--cinza); border-bottom-style: solid;
+	border-bottom-width: thin; font-size: 0.8em; 
+	text-transform: uppercase; color:var(--cinza);
+}
+.envios_info ul li{ display: inline; margin:0% 3%;}
+/* End Envios ------------------------------------------------------- */
+
+.homebanner{ width: 80%; padding:10% 10%; 
+	background-image: url("../img/banners/banner1.jpg");
+	background-size: cover; 
+	background-position: center center;
+}
+.homebanner h3{ 
+	font-size: 3em;
+	font-weight: bold;
+	color:var(--branco);
+	text-shadow: 1px 1px #666;
+}
+.homebanner p{ color:var(--branco); text-shadow: 1px 1px #666; }
+.homebanner button{
+	border: none;
+	padding:3%;
+	background-color: var(--azul); color:var(--branco);
+}
+.homebanner button:hover{
+	background-color:  var(--branco); color:var(--azul); cursor: pointer;
+}
+
+.subcategorias{ width: 80%; padding: 2% 10%; text-align: center;}
+.subcategorias ul li{ display: inline; margin:0.5%; }
+
+/* ---------------- FOOTER ----------------------------------- */
+footer{ width: 98%; padding: 0% 1% 0% 1%;
+	background-color: var(--azul); color:var(--branco);
+}
+footer h3{ font-size:1.2em; margin-bottom: 4%;}
+footer p{ font-size: small; }
+footer button{ background-color: var(--laranja); color:var(--branco); }
+.social_list ul li{ display: inline; margin-right: 5%; }
+
+.subfooter{
+	background-color: var(--azulclaro);
+}
+.subfooter h3{ color: var(--azul); 
+	text-transform: uppercase;
+	margin:5% 0%; font-size: 1.1em;
+}
+.subfooter ul li{ list-style: none; }
+
+/* --------------- END FOOTER ---------------------------------- */
+/* ---------------------- DESTAQUES ----------------------- */
+.destaques{ width: 90%; margin:1% 5%; text-align: center; }
+.destaques button{
+	border-style: solid;
+	border-color: var(--laranja);
+	border-width: thin;
+	color:var(--laranja);
+	background-color: rgba(0,0,0,0);
+	width: 50%;
+	padding:5%;
+	margin-top:5%;
+}
+.destaques button:hover{
+	color:var(--azul);
+	border-color:var(--azul);
+	cursor: pointer;
+}
+/* ----------------------- END DESTAQUES ----------------------- */
+/*--------------- PROMOBANNER ------------------------------- */
+.promobanner{
+	background-image: url("../img/banners/banner1.jpg");
+	background-size:cover;
+	background-position: center top;
+	padding: 2%;
+	color:var(--branco);
+}
+.promobanner h3{ text-transform: capitalize; font-size: 3em;}
+.promobanner button{
+	border-color:var(--branco);
+	border-width: 0.3em;
+	border-style: solid;
+	color:var(--branco);
+	padding:1%;
+	width: 20%;
+	background-color: rgba(0,0,0,0);
+	margin-top:2%;
+}
+.promobanner button:hover{
+	color:var(--laranja);
+	border-color:var(--laranja);
+	cursor: pointer;
+}
+/* -------------------- END PROMOBANNER ----------------------*/
+/* ---------------------- BANNER SECCOES -------------------- */
+.banner_seccao2{ margin:5%; }
+.banner_seccao2 h3{
+	text-transform: capitalize;
+	margin-bottom: 2%;
+}
+.banner_seccao2 button{
+	background-color: var(--cinzaescuro);
+	color:var(--branco);
+	padding: 3%;
+	width: 70%;
+}
+.posicional{ position: relative;}
+.up_banner1{
+	position: absolute;
+	margin:5% 40% 5% 5%;
+	width: 40%;
+}
+.down_banner1{
+	width: 60%;
+	margin-left: 20%;
+}
+.up_banner2{
+	position: absolute;
+	margin:5% auto;
+	width: 50%;
+}
+.down_banner2{
+	width: 80%;
+	margin-left: 20%;
+}
+
+/* ---------------------- END BANNER SECCOES ---------------- */
+/* ---------------------Log Forms --------------------------- */
+.logforms h3{ margin-bottom: 3%; }
+.logforms label{ margin-bottom: 5%; }
+.logforms input{ 
+	margin-bottom: 3%; 
+	border:solid; 
+	border-color:var(--azul);
+	border-width: thin;
+}
+.logforms textarea{ 
+	margin-bottom: 3%; 
+	border:solid; 
+	border-color:var(--azul);
+	border-width: thin;
+}
+.logforms select{ 
+	margin-bottom: 3%; 
+	border:solid; 
+	border-color:var(--azul);
+	border-width: thin;
+}
+/* ---------------- END Log Forms --------------------------- */
+/* ------------ maps iframe ----------*/
+iframe{ width: 100%; min-height: 450px; }
+
+/* cartao oferta ------------------------------------- */
+.cartao-oferta-banner{ width: 80%; padding:10% 10%; 
+	background-image: url("../img/banners/banner1.jpg");
+	background-size: cover; 
+	background-position: center center;
+}
+.cartao-oferta-banner button{
+	border: none;
+	padding:3%;
+	background-color: var(--azul); color:var(--branco);
+}
+.cartao-oferta-banner button:hover{
+	background-color:  var(--branco); color:var(--azul); cursor: pointer;
+}
+.titulo{ 
+	padding:5%; 
+	text-align: center; 
+	border-radius: 50%; 
+	width: 10%; 
+	color:var(--laranja);
+	font-size: 2em;
+	font-weight: bold;
+	border-width: thin;
+	border-style: solid;
+	border-color:var(--laranja);
+	margin:2% auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
